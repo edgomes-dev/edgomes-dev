@@ -1,6 +1,6 @@
 ### Olá, Eu sou Ed 
 
-- 🔭 Hoje eu estudo para me tornar full-stack
+- 📗 Hoje eu estudo para me tornar full-stack
 - 🌱 Estudando: PHP
 
 <div align="center">
