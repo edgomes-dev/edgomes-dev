@@ -1,7 +1,7 @@
 ### Olá, Eu sou Ed 
 
 - 📗 Hoje eu estudo para me tornar full-stack
-- 🌱 Estudando: PHP
+- 🌱 Estudando: React/Node/Typescript
 
 <div align="center">
   <a href="https://github.com/edgomes-dev">
