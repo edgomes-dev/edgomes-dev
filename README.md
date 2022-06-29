@@ -1,5 +1,6 @@
 ### Olá, Eu sou Ed 
 
+- 📗 Cursando Sistemas de Informação na UFRPE
 - 📗 Hoje eu estudo para me tornar full-stack
 - 🌱 Estudando: React e Node
 
