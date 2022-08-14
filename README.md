@@ -1,7 +1,7 @@
 ### Olá, Eu sou Ed 
 
 - 📗 Cursando Sistemas de Informação na UFRPE
-- 📗 Hoje eu estudo para me tornar full-stack
+- 📗 Futuro Engenheiro de Software
 - 🌱 Estudando: Nextjs, GraphQl, Strapi e Adonis
 
 <div align="center">
