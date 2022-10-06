@@ -1,8 +1,8 @@
 ### Olá, Eu sou Ed 
 
-- 📗 Cursando Sistemas de Informação na UFRPE
+- 📗 Cursando Análise e Desenvolvimento de Sistemas, na Faculade Vincit
 - 📗 Futuro Engenheiro de Software
-- 🌱 Estudando: Nextjs, GraphQl, Strapi e Adonis
+- 🌱 Estudando: Nextjs e Nestjs
 
 <div align="center">
   <a href="https://github.com/edgomes-dev">
