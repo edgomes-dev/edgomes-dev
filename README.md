@@ -2,8 +2,8 @@
 
 - 📗 Cursando Análise e Desenvolvimento de Sistemas, na Faculade Vincit
 - 📗 Futuro Engenheiro de Software
-- 💻 Desenvolvedor Full-Stack
-- 🌱 Estudando: Java Web
+- 💻 Desenvolvedor Backend
+- 🌱 Estudando: Java Web e Node
 
 <div align="center">
   <a href="https://github.com/edgomes-dev">
