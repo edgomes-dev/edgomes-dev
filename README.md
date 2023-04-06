@@ -2,7 +2,7 @@
 
 - 📗 Cursando Análise e Desenvolvimento de Sistemas, na Faculade Vincit
 - 📗 Futuro Engenheiro de Software
-- 💻 Desenvolvedor Backend
+- 💻 Desenvolvedor FullStack
 - 🌱 Estudando: Java Web e Node
 
 <!---<div align="center">
